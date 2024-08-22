@@ -1,6 +1,11 @@
 # WHAT DOES THIS CODE DO?
 
-My IPv4-IP-address to binary converter takes any IPv4 IP address from user and converts it to the binary equivalent. The purpose of this project, is to demonstrate my understanding of Python programming concepts relating to cybersecurity. And also, to help networking and cybersecurity students who may encounter mathematics, networking or cybersecurity projects where they need to convert IPv4 IP address to binary or convert a number(in base 10) to binary.
+The IP address system we are presently using is known as IP version 4, or IPv4. It is made up of 
+32 bits of four octets (8 characters) or four groups of 8 bits (on/off switches). This project translates your IPv4 address into bits( E.g  142.250.200.142 translates to 10001110.11111010.11001000.10001110) for clarity and an overview.
+
+Networking and Cybersecurity students can use this program to see how all IPV4 address translates to bits; a language that computers understands.
+
+My IPv4-IP-address to binary converter takes any IPv4 IP address from user and converts it to the binary equivalent. The other purpose of this project demonstrates my understanding of Python programming concepts relating to cybersecurity & networking. And also, to help networking and cybersecurity students who may encounter mathematics, networking or cybersecurity projects where they need to convert IPv4 IP address to binary or convert a number(in base 10) to binary.
 
 ## FUTURE UPDATES(MOD) TO EXPECT!
 
